@@ -1,0 +1,14 @@
+appdirs
+certifi
+click
+distlib
+Flask
+Flask-Cors
+gunicorn
+itsdangerous
+datetime
+Jinja2
+joblib
+MarkupSafe
+virtualenv
+Werkzeug
